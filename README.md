@@ -1,4 +1,4 @@
-# sitka_temps_rainfall
+# Rainfall-Data-Visualization-Scripts
 Visualization of Sitka's Temperature and Rainfall Fluctuations in 2018
 
 Data Visualization Scripts
